@@ -13,6 +13,8 @@ wearables required. The goal: show that the sensing pipeline for
 camera-free, dignity-preserving elder monitoring is buildable from
 commodity motion data.
 
+This one is personal. The people I love are getting older, and I keep thinking about how thin the line gets between *independent* and *alone* — and how late we usually notice it being crossed. Cameras feel like surveillance and wearables end up forgotten on chargers; I wanted to see whether ordinary motion data could notice decline early, with nobody's dignity as the price.
+
 > **Not a medical device.** This is a research prototype demonstrating a
 > sensing pipeline. It has no clinical validation and must not be used for
 > health decisions. See [Limitations](#limitations-blunt-version) — read
